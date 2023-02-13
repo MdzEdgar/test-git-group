@@ -7,7 +7,7 @@ import Misael from './components/Misael'
 function App() {
 
   return (
-    <div className="App flex gap-6 min-h-screen justify-center items-center ">
+    <div className="App flex gap-6 min-h-screen justify-center items-center bg-black text-white">
       <Edgar />
       <Esmeralda />
       <Jose />
